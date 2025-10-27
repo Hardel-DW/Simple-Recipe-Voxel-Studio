@@ -9,8 +9,8 @@
     },
     "pattern": [
         "AAA",
-        "BB ",
-        "   "
+        " B ",
+        " B "
     ],
     "result": {
         "count": 1,
