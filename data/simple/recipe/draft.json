@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "equipment",
+    "key": {
+        "#": "minecraft:stick",
+        "X": "#minecraft:diamond_tool_materials"
+    },
+    "pattern": [
+        "XX",
+        "X#",
+        " #"
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:diamond_axe"
+    },
+    "ingredients": [
+        "#minecraft:diamond_tool_materials",
+        "#minecraft:diamond_tool_materials",
+        "#minecraft:diamond_tool_materials",
+        "minecraft:stick",
+        "minecraft:stick"
+    ]
+}
